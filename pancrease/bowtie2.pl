@@ -11,5 +11,5 @@ open F2,">$sam.sh";
 print F2 "bowtie2 -q -x $FF2/hg19 -1 $FF1/$file1 -2 $FF1/$file2 -S $sam.sam\n";
 print F2 "samtools view -bS $sam.sam > $sam.bam\n";
 print F2 "samtools sort $sam.bam $sam.sorted\n";
-print F2 "samtools mpileup -uf $FF3 $sam.sorted.bam -v -o $sam.vcf\n";
+print F2 "#samtools mpileup -uf $FF3 $sam.sorted.bam -v -o $sam.vcf\n";
 }
