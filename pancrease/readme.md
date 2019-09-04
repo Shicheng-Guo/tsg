@@ -1,1 +1,1 @@
-Python (MACS), R (ChIPseeker, Genomation, SeqPlots)
+* Python (MACS), R (ChIPseeker, Genomation, SeqPlots)
