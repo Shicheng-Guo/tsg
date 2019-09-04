@@ -1,0 +1,7 @@
+ftp ftp-private.ncbi.nlm.nih.gov
+name: geo
+password: 33%9uyj_fCh?M16H
+binary
+mkdir your_username
+cd your_username
+put file_name
