@@ -1,0 +1,23 @@
+Patient	Age at Diagnosis	Gender	family history	smoking history	drinking history	Histopathological Diagnosis	Degree of Differentiation	TNM Staging	clinical stages	chemotherapy	radiotherapy	PFS_Week	OS_Week
+2018030901	65	F	No	No	No	Ductal adenocarcinoma	Well	T3N0M0	IIA	Yes	No	36	NA
+2018031502	64	M	No	Yes	Yes	Ductal adenocarcinoma	Poor	T3N0M0	IIA	Yes	Yes	28	56
+2018032201	55	M	Yes	Yes	Yes	Ductal adenocarcinoma	NA	T3N0M0	IIA	Yes	No	4	40
+2018040802	51	M	Yes	Yes	No	Ductal adenocarcinoma	Poor	T3N1M0	IIB	Yes	Yes	24	24
+2018090501	63	F	Yes	No	No	Ductal adenocarcinoma	Well	T1N1Mx	IIB	Yes	No	NA	NA
+2018091201	64	F	No	No	No	Ductal adenocarcinoma	Poor	T3N1M0	IIB	No	No	36	36
+2018092601	69	F	No	No	No	Ductal adenocarcinoma	Moderate	T2N0M0	IB	Yes	No	NA	NA
+2019032901	44	M	No	No	Yes	Ductal adenocarcinoma	Poor	T2N0M0	IB	Yes	No	NA	NA
+2019032903	64	F	No	No	No	Ductal adenocarcinoma	Poor	T3N1M0	IIB	Yes	No	NA	NA
+2019040901	64	F	No	No	No	Ductal adenocarcinoma	Moderate	T3N0M0	III	Yes	No	NA	NA
+2019051703	65	F	Yes	Yes	No	Ductal adenocarcinoma	Well	T3N1M0	IIB	No	No	NA	NA
+2019052301	64	M	No	Yes	Yes	Ductal adenocarcinoma	Moderate	T3N0M0	IIA	No	No	NA	NA
+2019053101	64	F	No	No	No	Ductal adenocarcinoma	Moderate	T3N1M0	IIB	Yes	No	NA	NA
+2019053102	63	M	No	Yes	No	Ductal adenocarcinoma	Well	T3N0M0	IIA	Yes	No	NA	NA
+2019062001	69	M	Yes	Yes	Yes	Ductal adenocarcinoma	Moderate	T3N0M0	IIA	Yes	No	NA	NA
+2019062002	80	F	No	No	No	Ductal adenocarcinoma	Well	T2N0M0	IB	No	No	NA	NA
+2019062701	73	F	Yes	No	No	Ductal adenocarcinoma	Moderate	T3N1M0	IIB	No	No	NA	NA
+2019062801	67	F	No	No	No	Ductal adenocarcinoma	Well	T3N0M0	IIA	No	No	NA	NA
+2019071202	72	M	No	No	No	Ductal adenocarcinoma	Poor	T3N1M0	IIB	No	No	1	1
+20190716	70	M	No	No	No	Ductal adenocarcinoma	Moderate	T3N1M0	IIB	Yes	No	NA	NA
+20190726	64	F	No	No	No	Ductal adenocarcinoma	Poor	T3N0M0	IIA	No	No	NA	NA
+20190730	42	M	No	No	No	Ductal adenocarcinoma	Moderate	T3N1M0	IIB	NA	NA	NA	NA
